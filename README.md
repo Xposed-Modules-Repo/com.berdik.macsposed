@@ -1,5 +1,5 @@
 # MACsposed
-<img align="left" src="https://raw.githubusercontent.com/DavidBerdik/MACsposed/master/play-store-images/ic_launcher-playstore.png" width="140" />
+<img align="left" src="https://raw.githubusercontent.com/DavidBerdik/MACsposed/master/images/ic_launcher-playstore.png" width="140" />
 
 Historically, setting a custom MAC address on Android was very easy for rooted users. Starting with Android 12, however, Google's implementation of MAC address randomization has made it impossible, as the MAC address is always changed when the network state is altered. If you have encountered this problem, then you need MACsposed! MACsposed is an Xposed module that blocks the MAC address randomizer on Android 12 through 14 and allows you to once again make use of your favorite tools for setting your MAC address. Simply install MACsposed, enable it, and go back to randomizing your MAC address using your favorite tools for doing so!
 
@@ -7,36 +7,6 @@ Historically, setting a custom MAC address on Android was very easy for rooted u
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.berdik.macsposed">
-    <img src="https://raw.githubusercontent.com/DavidBerdik/MACsposed/master/play-store-images/google-play-badge.png" height="80" />
+    <img src="https://raw.githubusercontent.com/DavidBerdik/MACsposed/master/images/google-play-badge.png" height="80" />
   </a>
-</p>
-
-To use MACsposed:
-1. Install LSposed. This requires your device to be rooted with Magisk or KernelSU. Installation instructions for LSPosed are available [here](https://github.com/LSPosed/LSPosed#install).
-2. Install MACsposed.
-3. Activate the MACsposed module in the LSposed user interface.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DavidBerdik/MACsposed/master/play-store-images/screenshots/1.png" width="300" />
-  <img src="https://raw.githubusercontent.com/DavidBerdik/MACsposed/master/play-store-images/screenshots/2.png" width="300" />
-</p>
-
-4. Reboot your device and sign in.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DavidBerdik/MACsposed/master/play-store-images/screenshots/3.png" width="300" />
-</p>
-
-5. Open the quick settings panel. The MACsposed tile will appear.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DavidBerdik/MACsposed/master/play-store-images/screenshots/4.png" width="300" />
-</p>
-
-6. Toggle the MACsposed tile on or off to enable or disable it.
-7. Use your favorite tool for setting a custom MAC address!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DavidBerdik/MACsposed/master/play-store-images/screenshots/5.png" width="300" />
-  <img src="https://raw.githubusercontent.com/DavidBerdik/MACsposed/master/play-store-images/screenshots/6.png" width="300" />
 </p>
